@@ -10,5 +10,5 @@
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/leonhe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonhe&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy" alt="LeonHe's github stats" /></a> | <a href="https://github.com/leonhe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonhe&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/leonhe"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leonhe&show_icons=true&include_all_commits=true&hide_border=true&theme=buefy&count_private=true" alt="LeonHe's github stats" /></a> | <a href="https://github.com/leonhe"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonhe&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
